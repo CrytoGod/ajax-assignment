@@ -6,7 +6,7 @@ This project demonstrates a simple AJAX call to fetch data from an API using Jav
 
 - Sends an AJAX request to a public API.
 - Handles the API response and displays the data.
-- Uses modern JavaScript (ES6+) with `fetch`.
+- Uses modern JavaScript with `fetch`.
 
 ## How It Works
 
